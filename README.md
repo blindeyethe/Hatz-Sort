@@ -3,4 +3,4 @@ A sorting Algorithm with Graph, with graphics powered by olcPixelGameEngine(http
 
 Status: Finished
 
-https://user-images.githubusercontent.com/62220844/156901557-74cb3c3d-f90c-43de-83bc-9b0eff55309e.mp4
+https://user-images.githubusercontent.com/62220844/156901586-8f795437-8508-477c-9d6c-7e4c98c2dd21.mp4
